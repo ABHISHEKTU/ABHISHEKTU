@@ -1,36 +1,71 @@
 <h1 align="center">ABHISHEK T U</h1>
 
+<p align="center">
+Hi, I'm Abhishek 👋
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Abhishek;MCA+Student;Aspiring+Software+Developer;Passionate+about+Coding;Building+Real+World+Projects)
-
-
-
-
-
----
-
-## 🔧 Tech Stack
-- Python, Java, C++
-- Django, HTML, CSS, JavaScript
-- MySQL
+<p align="center">
+💻 Aspiring Software Engineer passionate about building real-world web applications and AI-based solutions  
+<br>
+🚀 Interested in Web Development & AI
+</p>
 
 ---
 
-## 📌 Projects
-- **[Landslide Prediction System](https://github.com/ABHISHEKTU/your-repo-link)**  
-  ML-based system to predict landslide risk  
+## 🧠 About Me
 
-- **[Hostel Management System](https://github.com/ABHISHEKTU/your-repo-link)**  
-  Web app for managing hostel operations  
+- 🎓 MCA Student @ CUSAT (2024–2026)
+- 💡 Passionate about building real-world applications
+- 🤖 Interested in Machine Learning & Web Development
+- ⚙️ Strong in OOP, DBMS & Problem Solving
+- 🎯 Goal: Software Developer Role by 2026
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Landslide Prediction System
+- ML-based system to predict landslide risk using environmental data  
+- Built using Python, Django & Machine Learning  
+- Helps in early warning and disaster prevention  
+
+🔗 https://github.com/ABHISHEKTU/your-repo-link
+
+---
+
+### 🏨 Hostel Management System
+- Web application to manage hostel operations and complaints  
+- Built using Django, HTML, CSS, JavaScript  
+- Admin + user system with real-time tracking  
+
+🔗 https://github.com/ABHISHEKTU/your-repo-link
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (www.linkedin.com/in/abhishek-t-u-318b432a0)
-- EMail: (abhishektu123@gmail.com)
+
+-  LinkedIn: (www.linkedin.com/in/abhishek-t-u-318b432a0) 
+-  GitHub: https://github.com/ABHISHEKTU  
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+✨ Thanks for visiting my profile ✨
 </p>
