@@ -46,7 +46,7 @@ Hi, I'm Abhishek 👋
 - Built using Python, Django & Machine Learning  
 - Helps in early warning and disaster prevention  
 
-🔗 https://github.com/ABHISHEKTU/your-repo-link
+🔗 https://github.com/ABHISHEKTU/Landslide-Prediction-System
 
 ---
 
