@@ -42,7 +42,7 @@ Hi, I'm Abhishek 👋
 ## 🚀 Featured Projects
 
 ### 🌍 Landslide Prediction System
-- ML-based system to predict landslide risk using environmental data  
+- ML-based system to predict landslide risk using satellite images and real time weather data  
 - Built using Python, Django & Machine Learning  
 - Helps in early warning and disaster prevention  
 
