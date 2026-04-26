@@ -1,15 +1,11 @@
 <h1 align="center">ABHISHEK T U</h1>
 
-<p align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Abhishek;MCA+Student;Aspiring+Software+Developer;Passionate+about+Coding;Building+Real+World+Projects)
 
-</p>
 
-<!-- <p align="center">
-💻 Aspiring Software Engineer passionate about building real-world web applications and AI-based solutions  
-<br>
-🚀 Interested in Web Development & AI  
-</p> -->
+
+
 
 ---
 
