@@ -53,7 +53,7 @@ Hi, I'm Abhishek 👋
 ### 🏨 Hostel Management System
 - Web application to manage hostel operations and complaints  
 - Built using Django, HTML, CSS, JavaScript  
-- Admin + user system with real-time tracking  
+- Admin + Warden + user system with real-time tracking  
 
 🔗 https://github.com/ABHISHEKTU/your-repo-link
 
@@ -61,7 +61,7 @@ Hi, I'm Abhishek 👋
 
 ## 📫 Connect with me
 
--  LinkedIn: (www.linkedin.com/in/abhishek-t-u-318b432a0) 
+-  LinkedIn: www.linkedin.com/in/abhishek-t-u-318b432a0
 -  GitHub: https://github.com/ABHISHEKTU  
 
 ---
