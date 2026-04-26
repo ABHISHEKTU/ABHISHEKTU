@@ -18,7 +18,6 @@ Hi, I'm Abhishek 👋
 - 💡 Passionate about building real-world applications
 - 🤖 Interested in Machine Learning & Web Development
 - ⚙️ Strong in OOP, DBMS & Problem Solving
-- 🎯 Goal: Software Developer Role by 2026
 
 ---
 
@@ -28,6 +27,7 @@ Hi, I'm Abhishek 👋
 
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
