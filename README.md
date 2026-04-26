@@ -1,4 +1,5 @@
 # Hi, I'm Abhishek 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hello+World!;I+love+coding;Welcome+to+my+GitHub)
 
 💻 Aspiring Software Engineer passionate about building real-world web applications and AI-based solutions  
 🚀 Interested in Web Development & AI  
