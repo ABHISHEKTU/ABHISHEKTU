@@ -43,19 +43,17 @@ Hi, I'm Abhishek 👋
 
 ### 🌍 Landslide Prediction System
 - ML-based system to predict landslide risk using satellite images and real time weather data  
-- Built using Python, Django & Machine Learning  
-- Helps in early warning and disaster prevention  
-
-🔗 https://github.com/ABHISHEKTU/Landslide-Prediction-System
+- Built using Python, Django & CNN (Deep Learning)  
+- Live deployment with Gemini AI risk analysis  
+🔗 [GitHub](https://github.com/ABHISHEKTU/Landslide-Prediction-System) | [Live Demo](https://landslide-prediction.up.railway.app)
 
 ---
 
-### 🏨 Hostel Management System
-- Web application to manage hostel operations and complaints  
-- Built using Django, HTML, CSS, JavaScript  
-- Admin + Warden + user system with real-time tracking  
-
-🔗 https://github.com/ABHISHEKTU/your-repo-link
+### 🤖 TalentTrace
+- AI-powered recruitment platform to match candidates with job roles  
+- Built using FastAPI, React & NLP  
+- Intelligent resume parsing and skill matching  
+🔗 [GitHub](https://github.com/ABHISHEKTU/TalentTrace) | [Live Demo](https://talent-trace-eight.vercel.app/)
 
 ---
 
